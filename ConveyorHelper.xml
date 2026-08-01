@@ -20,6 +20,6 @@ Toggle on/off with NumPad * (configurable in the plugin settings). Visuals only;
         <Directory>ClientPlugin</Directory>
     </SourceDirectories>
 
-    <Commit>PENDING</Commit>
+    <Commit>e874396ecc6d3690c429c9854f7f965ca398d2e4</Commit>
 
 </PluginData>
